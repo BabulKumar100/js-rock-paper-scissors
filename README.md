@@ -119,13 +119,17 @@ The interface is optimized for different screen sizes, including:
 
 ## 📸 Screenshots
 
-```md
+### Home Screen
+
 ![Home Screen](images/home.png)
+
+### Gameplay
 
 ![Gameplay](images/gameplay.png)
 
+### Final Result
+
 ![Final Result](images/result.png)
-```
 
 ---
 
